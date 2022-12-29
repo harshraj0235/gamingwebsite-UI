@@ -1,0 +1,1 @@
+A video game user interface is a system of visual components that allows players to interact with the game story (narrative) and break into the game space (the fourth wall). There are four classes of UI in video games: Non-diegetic, Diegetic, Meta, and Spatial.
